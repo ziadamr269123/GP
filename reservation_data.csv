@@ -1,0 +1,103 @@
+index,source,sales_manager,interest,probability,reservation_success
+0,instagram,ibrahiem,c,49.38937151834346,no
+1,no source,tabarak,c,17.882270922132882,yes
+2,whatsaap,ibrahiem,sql,36.64687845828599,yes
+3,no source,basmala,python,74.41705230565623,no
+4,no source,tabarak,R,72.09399242521293,no
+5,facebook,samar,java,30.80607918523892,yes
+6,whatsaap,ziad,java,54.25402305548993,yes
+7,whatsaap,islam,php,50.881407683876,no
+8,whatsaap,ibrahiem,python,63.63326181858954,no
+9,no source,samar,c,25.046181860558413,no
+10,instagram,islam,R,58.98708475605439,no
+11,whatsaap,islam,sql,97.8892858275009,no
+12,no source,tabarak,c,48.67421529594551,yes
+13,facebook,islam,python,90.6098787718554,no
+14,instagram,ziad,sql,43.43943655104287,yes
+15,facebook,samar,php,35.00784076946757,yes
+16,instagram,islam,php,64.51033620305648,yes
+17,no source,tabarak,java,66.89240596630997,no
+18,direct call,ziad,python,86.4167565071903,yes
+19,instagram,basmala,R,23.01852682415553,yes
+20,facebook,samar,sql,49.91933798847524,no
+21,no source,islam,c,57.20041992091831,yes
+22,instagram,tabarak,python,76.8554014306309,yes
+23,direct call,basmala,python,4.360377175443375,no
+24,direct call,basmala,php,99.4550510797341,yes
+25,whatsaap,ibrahiem,java,46.994451399094295,yes
+26,whatsaap,ziad,java,27.95603417967586,yes
+27,facebook,islam,sql,88.3494022266259,no
+28,instagram,tabarak,php,74.77187738974139,no
+29,instagram,ibrahiem,python,95.30718470239532,no
+30,whatsaap,ziad,R,33.07503046705137,yes
+31,instagram,ibrahiem,php,55.27649668354899,yes
+32,instagram,samar,sql,57.22924691708384,no
+33,direct call,ziad,sql,98.03315837160456,yes
+34,whatsaap,ziad,php,7.534625600612821,yes
+35,no source,islam,sql,30.569701928718185,no
+36,whatsaap,ziad,php,19.091103115034603,no
+37,no source,ibrahiem,c,26.84748568901568,yes
+38,direct call,ziad,php,48.52798742763157,yes
+39,facebook,islam,php,37.26868670940493,yes
+40,instagram,islam,sql,39.46914668094722,no
+41,direct call,samar,sql,84.42131407263113,no
+42,instagram,ibrahiem,java,93.0016834810832,no
+43,facebook,basmala,java,7.04161308495439,no
+44,facebook,basmala,c,20.891871761536017,yes
+45,direct call,ziad,java,67.11435168240506,no
+46,facebook,samar,php,35.86467812961639,no
+47,no source,tabarak,sql,25.416364906973875,no
+48,facebook,ziad,java,29.529058841893875,no
+49,instagram,samar,java,32.255076423860054,no
+50,instagram,ibrahiem,c,84.86697949246744,yes
+51,instagram,ibrahiem,python,13.66213314420288,yes
+52,instagram,ibrahiem,c,70.89109969101186,no
+53,no source,ibrahiem,php,55.28199769079077,yes
+54,whatsaap,ibrahiem,sql,29.651014364779847,no
+55,direct call,samar,c,41.97808564462765,no
+56,instagram,samar,java,25.620694359445807,yes
+57,facebook,islam,sql,61.15137108656805,yes
+58,instagram,basmala,sql,8.159418040024036,no
+59,facebook,ibrahiem,java,0.5184862773986776,no
+60,facebook,tabarak,c,62.78944149486361,no
+61,instagram,samar,java,19.427395351204225,yes
+62,no source,tabarak,python,7.094091699992767,no
+63,facebook,tabarak,sql,39.67838272138884,no
+64,facebook,tabarak,R,5.076853103939694,no
+65,instagram,islam,R,88.66171489506598,yes
+66,facebook,samar,php,2.7616771873704704,no
+67,facebook,tabarak,java,57.88648955075587,no
+68,instagram,ibrahiem,java,43.847412301808696,yes
+69,instagram,ziad,php,67.20261352951994,no
+70,direct call,tabarak,php,32.8152667474732,no
+71,no source,islam,php,15.50416167277442,yes
+72,no source,samar,sql,98.1840888310531,no
+73,facebook,islam,python,83.89335020693633,yes
+74,no source,tabarak,java,86.04046183116752,yes
+75,facebook,samar,sql,25.025136051586404,no
+76,direct call,ziad,php,3.88347344294232,no
+77,instagram,tabarak,java,30.32655146732228,no
+78,instagram,islam,sql,53.70824271966554,no
+79,instagram,basmala,python,32.665124179604085,yes
+80,no source,ibrahiem,sql,82.78690037875887,no
+81,direct call,islam,python,27.15429158197419,yes
+82,no source,samar,php,96.52518303907698,no
+83,no source,tabarak,python,45.72651616137286,no
+84,direct call,ibrahiem,java,84.20230750119813,no
+85,direct call,tabarak,php,19.438003399487304,yes
+86,direct call,samar,java,41.13539050566786,no
+87,direct call,tabarak,R,69.95122107671938,no
+88,instagram,basmala,c,13.835309241780136,no
+89,whatsaap,ibrahiem,python,13.27454222429698,no
+90,whatsaap,ibrahiem,c,96.9536867114159,yes
+91,direct call,samar,c,71.4595104179952,no
+92,whatsaap,basmala,python,4.106751676787579,yes
+93,whatsaap,islam,php,39.882090144479456,yes
+94,direct call,tabarak,R,43.352073758074205,yes
+95,whatsaap,ziad,java,74.40426429991153,yes
+96,no source,tabarak,sql,25.08605273466612,yes
+97,facebook,tabarak,java,18.433367433137004,yes
+98,facebook,islam,sql,8.087296661719767,no
+99,direct call,tabarak,java,42.83144749401077,yes
+100,direct call,basmala,php,48.1413438426884,no
+101,direct call,ziad,php,48.1413438426884,no
